@@ -1,0 +1,2 @@
+# UseSwiftStaticFramework
+swift静态库适配OC类与Swift类
